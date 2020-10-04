@@ -13,5 +13,5 @@
 </p>
 
 <p align="left">
-    Clonar projeto: git clone https://github.com/PedroHenrique-git/SimpleOnlineStore.git
+    Clonar projeto: git clone https://github.com/PedroHenrique-git/SimpleKeyLogger.git
 </p>
