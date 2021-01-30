@@ -1,17 +1,22 @@
-<h1 align="center">Simple KeyLogger javascript</h1>
+# Simple KeyLogger javascript
 
-<p align="left">
- Uma simples loja online com funcionalidade para usuários comuns e funcionalidades de usuários administradores.
-</p>
+A simple KeyLogger made with javascript
 
-<p align="left">
-    <ul>
-        <li><a href="https://www.php.net/">🔗 Php</a></li>
-        <li><a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">🔗 JavaScript</a></li>
-        <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">🔗 Html</a></li>
-    </ul>
-</p>
+## Getting Started
 
-<p align="left">
-    Clonar projeto: git clone https://github.com/PedroHenrique-git/SimpleKeyLogger.git
-</p>
+Run the code on a server that supports php.
+
+## Built With
+
+* [PHP](https://www.php.net/) 
+* [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML) 
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+## Images
+
+<img src="/images/Capture.PNG"/>
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
