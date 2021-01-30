@@ -12,10 +12,6 @@ Run the code on a server that supports php.
 * [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML) 
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## Images
-
-<img src="/images/Capture.PNG"/>
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
